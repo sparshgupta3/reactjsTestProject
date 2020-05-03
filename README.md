@@ -2,14 +2,14 @@
 
 ## Setting up a React Environment
 
-If you have NPM and Node.js installed, you can create a React application by first installing the create-react-app.
+If you have **NPM** and **Node.js** installed, you can create a React application by first installing the create-react-app.
 
 Install create-react-app by running this command in your terminal:
   `npm install -g create-react-app`
   
-Then you are able to create a React application, create one called 'first'.
+Then you are able to create a React application, create one called **first**.
 
-Run this command to create a React application named 'first':
+Run this command to create a React application named **first**:
   `npx create-react-app first`
   
 The create-react-app will set up everything you need to run a React application.
@@ -26,7 +26,7 @@ Install the react-fusioncharts and fusioncharts modules using the following comm
   
 ## Replacing files
 
-Replace the 'src' folder and the 'package.json' file either directly downloading from repository or downloading the replace.rar file from repo. and then extract and replace.
+Replace the **'src'** folder and the **'package.json'** file either directly downloading from repository or downloading the replace.rar file from repository and then extract and replace.
   
   
 ## Run the React Application
