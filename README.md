@@ -6,10 +6,12 @@ If you have NPM and Node.js installed, you can create a React application by fir
 
 Install create-react-app by running this command in your terminal:
   `npm install -g create-react-app`
+  
 Then you are able to create a React application, create one called 'first'.
 
 Run this command to create a React application named 'first':
   `npx create-react-app first`
+  
 The create-react-app will set up everything you need to run a React application.
 
 
